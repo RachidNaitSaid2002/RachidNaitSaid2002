@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -23,7 +23,6 @@
 
 </div>
 
----
 
 <div align="left" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 40px; border-radius: 15px; border: 3px solid #ffffffff;">
 
@@ -35,7 +34,7 @@
 
 A passionate technologist specializing in **Retrieval-Augmented Generation (RAG)**, **Deep Learning**, and **Enterprise-Grade Software Architecture**. Transforming complex problems into elegant, scalable solutions powered by cutting-edge AI and modern full-stack technologies.
 
----
+
 
 **🌍 Location:** Morocco 🇲🇦  
 **💼 Status:** Open for Strategic Partnerships & Innovation  

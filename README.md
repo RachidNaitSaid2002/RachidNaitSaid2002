@@ -85,9 +85,6 @@ MLOps & Deploy     ████████░░ 87%
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=DC143C" alt="PyTorch"/>
 </td>
 
-</tr>
-
-<tr>
 <td width="33%" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
 
 
@@ -120,9 +117,6 @@ Cloud Deploy       ████████░░ 85%
 
 </td>
 
-</tr>
-
-<tr>
 <td width="33%" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
 
 ### DATA ENGINEERING

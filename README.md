@@ -18,9 +18,6 @@
   <a href="https://github.com/RachidNaitSaid2002">
     <img src="https://img.shields.io/github/followers/RachidNaitSaid2002?style=social&label=Followers&color=DC143C" alt="GitHub followers"/>
   </a>
-  <a href="https://github.com/RachidNaitSaid2002?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/RachidNaitSaid2002?color=DC143C" alt="Total Repositories"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=RachidNaitSaid2002&label=Profile%20Views&color=DC143C&style=flat-square" alt="Profile views"/>
 </p>
 

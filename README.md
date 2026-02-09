@@ -478,9 +478,8 @@ Data Viz           ████████░░ 87%
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@RachidNaitSaid2002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachidNaitSaid2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachid%20Nait%20Said-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachid-nait-said)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachid%20Nait%20Said-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachid-nait-said-/)
 [![Email](https://img.shields.io/badge/Email-rachidnaitsaid15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidnaitsaid15@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@rachid_naitsaid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rachid_naitsaid)
 
 </div>
 

@@ -417,47 +417,29 @@ Data Viz           ████████░░ 87%
 
 ---
 
-## CURRENT FOCUS
+---
 
-<div align="left" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 35px; border-radius: 15px; border: 3px solid #ffffffff;">
+## 🎯 Current Focus
 
-<table width="100%">
-<tr>
-<td align="left" width="25%">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 20px; border-radius: 10px; color: white;">
-<h3>🔬 Advanced RAG : </h3>
-<p>Exploring multimodal retrieval, hybrid search, and adaptive chunking for next-gen knowledge systems</p>
-</div>
-</td>
-</tr>
-<tr>
-<td align="left" width="25%">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 20px; border-radius: 10px; color: white;">
-<h3>🌐 AI-Native Apps : </h3>
-<p>Building production-grade applications with seamless AI integration and real-time capabilities</p>
-</div>
-</td>
-</tr>
-<tr>
-<td align="left" width="25%">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 20px; border-radius: 10px; color: white;">
-<h3>⚙️ MLOps Excellence : </h3>
-<p>Implementing robust ML deployment pipelines and monitoring for enterprise scale</p>
-</div>
-</td>
-</tr>
-<tr>
-<td align="left" width="25%">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 20px; border-radius: 10px; color: white;">
-<h3>🚀 Open Source : </h3>
-<p>Contributing cutting-edge AI/ML solutions and fostering community innovation</p>
-</div>
-</td>
-</tr>
-</table>
+<div align="center">
+
+![RAG](https://img.shields.io/badge/Focus-Advanced%20RAG-DC143C?style=for-the-badge&logo=probot&logoColor=white)
+![AI Apps](https://img.shields.io/badge/Focus-AI--Native%20Apps-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
+![MLOps](https://img.shields.io/badge/Focus-MLOps%20Excellence-DC143C?style=for-the-badge&logo=githubactions&logoColor=white)
+![Open Source](https://img.shields.io/badge/Focus-Open%20Source-FF6B6B?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+
+<br>
+
+| Area | Description |
+| :--- | :--- |
+| 🔬 **Advanced RAG** | Multimodal retrieval, hybrid search, and adaptive chunking. |
+| 🌐 **AI-Native Apps** | Production-grade applications with seamless AI integration. |
+| ⚙️ **MLOps** | Robust deployment pipelines and enterprise-scale monitoring. |
+| 🚀 **Open Source** | Contributing AI/ML solutions and fostering innovation. |
 
 </div>
 
+---
 ---
 
 ## PROFESSIONAL SERVICES

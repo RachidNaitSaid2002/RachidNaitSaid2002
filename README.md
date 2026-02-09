@@ -1,5 +1,5 @@
 <!-- Use: -->
-![Profile Header](Untitled%design.gif)
+![Profile Header](Untitled%20design.gif)
 <div align="center">
   
 ![Snake animation](https://raw.githubusercontent.com/RachidNaitSaid2002/RachidNaitSaid2002/output/github-contribution-grid-snake.svg)

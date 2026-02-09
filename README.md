@@ -44,7 +44,36 @@ A passionate technologist specializing in **Retrieval-Augmented Generation (RAG)
 
 </div>
 
----
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RachidNaitSaid2002&theme=radical" alt="Profile Summary" width="100%"/>
+
+<img src="https://streak-stats.demolab.com/?user=RachidNaitSaid2002&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=FF6B6B&currStreakLabel=DC143C" alt="GitHub Streak" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RachidNaitSaid2002&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=DC143C&line=FF6B6B&point=FFFFFF&area=true" alt="Activity Graph" width="100%"/>
+
+<table width="100%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RachidNaitSaid2002&theme=radical" alt="Repos per Language" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RachidNaitSaid2002&theme=radical" alt="Most Commit Language" width="100%"/>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RachidNaitSaid2002&theme=radical" alt="Stats" width="100%"/>
+</td>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RachidNaitSaid2002&theme=radical&utcOffset=1" alt="Productive Time" width="100%"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## CORE EXPERTISE
 
@@ -211,41 +240,6 @@ Data Viz           ████████░░ 87%
 
 </div>
 
----
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RachidNaitSaid2002&theme=radical" alt="Profile Summary" width="100%"/>
-
-<img src="https://streak-stats.demolab.com/?user=RachidNaitSaid2002&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=FF6B6B&currStreakLabel=DC143C" alt="GitHub Streak" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RachidNaitSaid2002&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=DC143C&line=FF6B6B&point=FFFFFF&area=true" alt="Activity Graph" width="100%"/>
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RachidNaitSaid2002&theme=radical" alt="Repos per Language" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RachidNaitSaid2002&theme=radical" alt="Most Commit Language" width="100%"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RachidNaitSaid2002&theme=radical" alt="Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RachidNaitSaid2002&theme=radical&utcOffset=1" alt="Productive Time" width="100%"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-
----
 
 ## SIGNATURE PROJECTS
 

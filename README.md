@@ -491,62 +491,24 @@ Data Viz           ████████░░ 87%
 
 ---
 
-## LET'S CONNECT
+## 🔗 LET'S CONNECT
 
-<div align="center" style="background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 10px; border-radius: 15px; border: 3px solid #ffffffff;">
+<div align="center">
 
-### 🌐 PROFESSIONAL NETWORK
+[![GitHub](https://img.shields.io/badge/GitHub-@RachidNaitSaid2002-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RachidNaitSaid2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rachid%20Nait%20Said-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rachid-nait-said)
+[![Email](https://img.shields.io/badge/Email-rachidnaitsaid15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rachidnaitsaid15@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@rachid_naitsaid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rachid_naitsaid)
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<a href="https://github.com/RachidNaitSaid2002">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 5px; border-radius: 10px; color: white; text-decoration: none;">
-<h3>💻 GitHub</h3>
-<p><b>@RachidNaitSaid2002</b></p>
-<p>20+ Projects</p>
 </div>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://linkedin.com/in/rachid-nait-said">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 5px; border-radius: 10px; color: white; text-decoration: none;">
-<h3>💼 LinkedIn</h3>
-<p><b>Rachid Nait Said</b></p>
-<p>Professional Profile</p>
-</div>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<a href="mailto:rachidnaitsaid15@gmail.com">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 5px; border-radius: 10px; color: white; text-decoration: none;">
-<h3>📧 Email</h3>
-<p><b>Get in Touch</b></p>
-<p>Direct Contact</p>
-</div>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://twitter.com/rachid_naitsaid">
-<div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 5px; border-radius: 10px; color: white; text-decoration: none;">
-<h3>𝕏 Twitter</h3>
-<p><b>@rachid_naitsaid</b></p>
-<p>Daily Insights</p>
-</div>
-</a>
-</td>
-</tr>
-</table>
+
+---
 
 ### 💬 RESPONSE TIME
-📧 Email: Typically within 24 hours  
-💼 LinkedIn: Within 48 hours  
-🔗 GitHub: Active discussions welcome
 
-</div>
-
+![Email](https://img.shields.io/badge/Email-24h-DC143C?style=flat-square)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-48h-DC143C?style=flat-square)
+![GitHub](https://img.shields.io/badge/GitHub-Always-DC143C?style=flat-square)
 ---
 
 ## CONTINUOUS LEARNING

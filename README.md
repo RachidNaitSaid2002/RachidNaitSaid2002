@@ -76,7 +76,7 @@ MLOps & Deploy     ████████░░ 87%
 - 👁️ Computer Vision Systems
 - 🤝 Multi-Modal AI
 
-**Tools & Frameworks:**</br>
+**Tools & Frameworks:**
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=DC143C" alt="Python"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=DC143C" alt="TensorFlow"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=DC143C" alt="PyTorch"/>
@@ -107,18 +107,18 @@ Cloud Deploy       ████████░░ 85%
 - 🔄 Microservices Design
 - 🌐 Cloud-Native Solutions
 
-**Tools & Frameworks:**</br>
+**Tools & Frameworks:**
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=DC143C" alt="TypeScript"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=DC143C" alt="React"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=DC143C" alt="FastAPI"/>
 
 </td>
 
-<td width="33%" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
-
 </tr>
 
 <tr>
+
+<td width="33%" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
 
 ### DATA ENGINEERING
 
@@ -142,7 +142,7 @@ Data Viz           ████████░░ 87%
 - 🚀 Real-Time Data Processing
 - 📊 Business Intelligence
 
-**Tools & Frameworks:**</br>
+**Tools & Frameworks:**
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=DC143C" alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=DC143C" alt="Pandas"/>
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&labelColor=DC143C" alt="ChromaDB"/>
@@ -152,7 +152,6 @@ Data Viz           ████████░░ 87%
 </table>
 
 </div>
-
 ---
 
 ## COMPLETE TECH ARSENAL

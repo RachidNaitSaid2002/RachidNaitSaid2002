@@ -1,6 +1,6 @@
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/RachidNaitSaid2002/RachidNaitSaid2002/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/RachidNaitSaid2002/RachidNaitSaid2002/output/github-contribution-grid-snake.svg)
 
 </div>
 

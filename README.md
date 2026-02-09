@@ -116,6 +116,10 @@ Cloud Deploy       ████████░░ 85%
 
 <td width="33%" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
 
+</tr>
+
+<tr>
+
 ### DATA ENGINEERING
 
 <div style="background: linear-gradient(135deg, #DC143C 0%, #FF6B6B 100%); padding: 5px; border-radius: 8px; color: white; margin: 5px 0; font-weight: bold;">

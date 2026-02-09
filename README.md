@@ -600,16 +600,11 @@ It's about using technology to solve problems that matter."
 
 If you find my work valuable, consider supporting my journey:
 
-<a href="https://github.com/sponsors/RachidNaitSaid2002">
-  <img src="https://img.shields.io/badge/❤️%20Sponsor-GitHub-DC143C?style=for-the-badge&logo=github" alt="Sponsor"/>
-</a>
 
 <a href="https://github.com/RachidNaitSaid2002">
   <img src="https://img.shields.io/badge/⭐%20Star%20Repository-GitHub-DC143C?style=for-the-badge&logo=github" alt="Star"/>
 </a>
 
 <br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC143C&color=100:8B0000&customColorList=12,20&height=130&section=footer&text=Built%20with%20%E2%9D%A4%EF%B8%8F%20by%20Rachid&fontSize=28&fontColor=fff&animation=fadeIn"/>
 
 </div>

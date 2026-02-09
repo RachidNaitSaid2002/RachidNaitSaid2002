@@ -34,7 +34,7 @@
 
 A passionate technologist specializing in **Retrieval-Augmented Generation (RAG)**, **Deep Learning**, and **Enterprise-Grade Software Architecture**. Transforming complex problems into elegant, scalable solutions powered by cutting-edge AI and modern full-stack technologies.
 
-[![Visit My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-DC143C?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio-url.com)
+[![Visit My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-DC143C?style=for-the-badge&logo=globe&logoColor=white)](https://portfolio-ou1d.vercel.app/)
 
 
 

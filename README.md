@@ -6,8 +6,6 @@
 
 </div>
 
-
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=600&color=FFFFFF&center=true&vCenter=true&multiline=true&width=900&height=20&lines=%20Transforming%20Ideas%20into%20Intelligent%20Systems;%20Building%20Next-Gen%20AI%20%26%20Full-Stack%20Solutions;%20Specializing%20in%20RAG%2C%20Deep%20Learning%20%26%20Scaling;⚡%20Turning%20Data%20into%20Insights%2C%20Impact%20into%20Legacy)
@@ -35,6 +33,8 @@
 </p>
 
 A passionate technologist specializing in **Retrieval-Augmented Generation (RAG)**, **Deep Learning**, and **Enterprise-Grade Software Architecture**. Transforming complex problems into elegant, scalable solutions powered by cutting-edge AI and modern full-stack technologies.
+
+[![Visit My Portfolio](https://img.shields.io/badge/View%20My%20Portfolio-DC143C?style=for-the-badge&logo=globe&logoColor=white)](https://your-portfolio-url.com)
 
 
 

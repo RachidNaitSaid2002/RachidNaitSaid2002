@@ -199,43 +199,30 @@ Data Viz           ████████░░ 87%
 ### AI & MACHINE LEARNING STACK
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=DC143C" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=DC143C" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=DC143C" alt="scikit-learn"/>
-<img src="https://img.shields.io/badge/LangChain-1FA055?style=for-the-badge&logoColor=white&labelColor=DC143C" alt="LangChain"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logoColor=black&labelColor=DC143C" alt="Hugging Face"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logoColor=white&labelColor=DC143C" alt="OpenAI"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,langchain,huggingface,openai," />
 </p>
+
 
 ### DATABASE & VECTOR SEARCH
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=DC143C" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=DC143C" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white&labelColor=DC143C" alt="ChromaDB"/>
-<img src="https://img.shields.io/badge/Pinecone-0095FF?style=for-the-badge&logoColor=white&labelColor=DC143C" alt="Pinecone"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC143C" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,chroma,sql" />
 </p>
+
 
 ### FRONTEND & FULL-STACK
 
 <p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=DC143C" alt="React"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=DC143C" alt="Node.js"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=DC143C" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=DC143C" alt="Laravel"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=DC143C" alt="Django"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,laravel,nextjs" />
 </p>
+
 
 ### DEVOPS & CLOUD
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=DC143C" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=DC143C" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=DC143C" alt="GitHub Actions"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=DC143C" alt="AWS"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=DC143C" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
 </p>
+
 
 </div>
 

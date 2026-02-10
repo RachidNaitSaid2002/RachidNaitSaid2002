@@ -235,9 +235,9 @@ Data Viz           ████████░░ 87%
 
 <div align="center">
 
-<table width="100%">
+<table >
 <tr>
-<td width="50%" valign="top" style="border: 3px solid #FFFFFF; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #FFFFFF; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### 🔍 RAG_IT_ASSISTANT
 
@@ -262,7 +262,7 @@ Data Viz           ████████░░ 87%
 `Python` • `LangChain` • `ChromaDB` • `FastAPI`
 
 </td>
-<td width="50%" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### 🚍 SMART-LOGITRACK
 
@@ -287,10 +287,8 @@ Data Viz           ████████░░ 87%
 `Python` • `TensorFlow` • `Time Series` • `PostgreSQL`
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### HOUSE PRICE PREDICTION
 
@@ -315,7 +313,7 @@ Data Viz           ████████░░ 87%
 `Python` • `Flask` • `React` • `TensorFlow`
 
 </td>
-<td width="50%" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### BTC PRICE PREDICTION
 
@@ -340,10 +338,8 @@ Data Viz           ████████░░ 87%
 `Python` • `PyTorch` • `LSTM` • `Plotly`
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### FACIAL EMOTION DETECTION
 
@@ -368,7 +364,7 @@ Data Viz           ████████░░ 87%
 `Python` • `TensorFlow` • `OpenCV` • `CNN`
 
 </td>
-<td width="50%" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
+<td whidth="500px" valign="top" style="border: 3px solid #ffffffff; border-radius: 12px; padding: 20px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); margin: 10px;">
 
 ### DELIVERY TIME PREDICTION
 
@@ -393,7 +389,7 @@ Data Viz           ████████░░ 87%
 `Python` • `Scikit-Learn` • `XGBoost` • `Flask`
 
 </td>
-</tr>
+
 </table>
 
 <br/>

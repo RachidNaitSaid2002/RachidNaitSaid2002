@@ -191,12 +191,13 @@ Data Viz           ████████░░ 87%
 ### LANGUAGES & FRAMEWORKS
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=DC143C" alt="Python"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=DC143C" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=DC143C" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=DC143C" alt="SQL"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=DC143C" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnu-bash&logoColor=white"/>
 </p>
+
 
 ### AI & MACHINE LEARNING STACK
 

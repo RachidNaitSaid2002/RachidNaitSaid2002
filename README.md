@@ -191,12 +191,9 @@ Data Viz           ████████░░ 87%
 ### LANGUAGES & FRAMEWORKS
 
 <p>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-111827?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,sql,bash" />
 </p>
+
 
 
 ### AI & MACHINE LEARNING STACK

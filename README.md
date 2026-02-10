@@ -80,7 +80,7 @@ A passionate technologist specializing in **Retrieval-Augmented Generation (RAG)
 
 <div align="center">
 
-<table >
+<table width="1200px">
 <tr>
 <td width="400px" align="left" style="border: 3px solid #ffffffff; border-radius: 10px; padding: 25px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);">
 

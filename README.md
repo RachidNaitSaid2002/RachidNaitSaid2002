@@ -91,12 +91,12 @@ PROFICIENCY MATRIX
 </div>
 
 ```
-RAG Systems        ████████░░ 95%
-Deep Learning      ████████░░ 92%
-Computer Vision    ████████░░ 88%
-NLP & LLMs         █████████░ 96%
-Time Series        ████████░░ 85%
-MLOps & Deploy     ████████░░ 87%
+RAG Systems     ████████░░ 95%
+Deep Learning   ████████░░ 92%
+Computer Vision ████████░░ 88%
+NLP & LLMs      █████████░ 96%
+Time Series     ████████░░ 85%
+MLOps & Deploy  ████████░░ 87%
 ```
 
 **Core Specializations:**
@@ -122,12 +122,12 @@ ARCHITECTURE MASTERY
 </div>
 
 ```
-Backend Arch       █████████░ 96%
-Frontend Dev       ████████░░ 90%
-API Design         █████████░ 95%
-Database Arch      ████████░░ 92%
-Microservices      ████████░░ 88%
-Cloud Deploy       ████████░░ 85%
+Backend Arch  █████████░ 96%
+Frontend Dev  ████████░░ 90%
+API Design    █████████░ 95%
+Database Arch ████████░░ 92%
+Microservices ████████░░ 88%
+Cloud Deploy  ████████░░ 85%
 ```
 
 **Core Specializations:**
@@ -155,12 +155,12 @@ DATA MASTERY
 </div>
 
 ```
-ETL Pipelines      ████████░░ 88%
-Data Analytics     █████████░ 92%
-Streaming Data     ███████░░░ 78%
-Vector DB          █████████░ 93%
-BigData Proc       ████████░░ 82%
-Data Viz           ████████░░ 87%
+ETL Pipelines  ████████░░ 88%
+Data Analytics █████████░ 92%
+Streaming Data ███████░░░ 78%
+Vector DB      █████████░ 93%
+BigData Proc   ████████░░ 82%
+Data Viz       ████████░░ 87%
 ```
 
 **Core Specializations:**

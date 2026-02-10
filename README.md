@@ -191,7 +191,7 @@ Data Viz           ████████░░ 87%
 ### LANGUAGES & FRAMEWORKS
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,sql,bash" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php" />
 </p>
 
 
@@ -199,14 +199,21 @@ Data Viz           ████████░░ 87%
 ### AI & MACHINE LEARNING STACK
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn,langchain,huggingface,openai," />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1FA055"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
 </p>
+
 
 
 ### DATABASE & VECTOR SEARCH
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,chroma,sql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
 
@@ -220,8 +227,9 @@ Data Viz           ████████░░ 87%
 ### DEVOPS & CLOUD
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,linux" />
 </p>
+
 
 
 </div>
